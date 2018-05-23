@@ -1,7 +1,8 @@
 # Sample Amazon Lex Web Interface
 
 ## Live Demo
-You can chat with my bot here to schedule an appointment 
+Visit the link below to chat with my bot and make an appointment. 
+<br>
 https://lex-web-ui-codebuilddeploy-15bmxl7jg-webappbucket-s5fwqdptomk7.s3.amazonaws.com/index.html
 
 ## Overview
