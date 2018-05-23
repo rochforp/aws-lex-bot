@@ -1,6 +1,8 @@
 # Sample Amazon Lex Web Interface
 
-> Sample Amazon Lex Web Interface
+## Live Demo
+You can chat with my bot here to schedule an appointment 
+https://lex-web-ui-codebuilddeploy-15bmxl7jg-webappbucket-s5fwqdptomk7.s3.amazonaws.com/index.html
 
 ## Overview
 This is a sample [Amazon Lex](https://aws.amazon.com/lex/)
